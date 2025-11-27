@@ -1,5 +1,11 @@
 # spring-react-boilerplate
 
+## NOTE
+This project is based on an open-source MIT-licensed repository. 
+I am using this repository to learn full-stack development, Spring Boot, 
+React, Redux, JWT and microservices architecture. I have customized parts 
+for my learning and documentation purposes.
+
 [![CircleCI](https://circleci.com/gh/pram/spring-react-boilerplate.svg?style=svg)](https://circleci.com/gh/pram/spring-react-boilerplate) [![Coverage Status](https://coveralls.io/repos/github/pram/spring-react-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/pram/spring-react-boilerplate?branch=master)
 
 Boilerplate application to demonstrate how to wire up Spring, JWT Authentication, React, Redux and Websockets.
