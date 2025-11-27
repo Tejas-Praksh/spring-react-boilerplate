@@ -6,6 +6,19 @@ I am using this repository to learn full-stack development, Spring Boot,
 React, Redux, JWT and microservices architecture. I have customized parts 
 for my learning and documentation purposes.
 
+## What I learned
+- Spring Boot architecture
+- REST API design
+- JWT authentication
+- React + Redux Toolkit state management
+- Role-based access
+- API integration workflow
+  ## Why I chose this project
+I selected this open-source project because it includes real-world
+backend architecture, Spring Security, authentication mechanisms,
+React frontend, and follows proper coding practices.
+
+
 [![CircleCI](https://circleci.com/gh/pram/spring-react-boilerplate.svg?style=svg)](https://circleci.com/gh/pram/spring-react-boilerplate) [![Coverage Status](https://coveralls.io/repos/github/pram/spring-react-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/pram/spring-react-boilerplate?branch=master)
 
 Boilerplate application to demonstrate how to wire up Spring, JWT Authentication, React, Redux and Websockets.
